@@ -1,4 +1,6 @@
-## Hi there, I'm Janvi! 👋
+  ![Project Banner](https://raw.githubusercontent.com/JANVI-CHATURVEDI/JANVI-CHATURVEDI/main/assets/pic1.JPG)
+
+  ## Hi there, I'm Janvi! 👋
 I'm a BCA student passionate about programming, AI tools, and creating solutions with technology. Currently exploring Java and building chatbots like ChatGPT.
 
 <!--
