@@ -1,19 +1,74 @@
-  ![Project Banner](https://raw.githubusercontent.com/JANVI-CHATURVEDI/JANVI-CHATURVEDI/main/assets/pic1.JPG)
+<h1 align="center">Hi there, I'm Janvi! 👋</h1>
+<p align="center">
+  🌸 BCA Student | 💻 Frontend Developer | 🤖 AI Explorer <br />
+  🎯 Passionate about tech, design, and building real-world projects <br />
+  📍 India • 🧠 Currently learning Java & React
+</p>
 
-  ## Hi there, I'm Janvi! 👋
-I'm a BCA student passionate about programming, AI tools, and creating solutions with technology. Currently exploring Java and building chatbots like ChatGPT.
+---
 
-<!--
-**JANVI-CHATURVEDI/JANVI-CHATURVEDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
+I'm **Janvi Chaturvedi**, a tech enthusiast who loves mixing **creativity + code** to build beautiful digital experiences.
 
-Here are some ideas to get you started:
+From AI-powered tools to full-stack web apps, I’m on a mission to learn, create, and grow every day. Currently exploring Java, React, and how AI (like ChatGPT 😉) can help solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+- 🔸 Java & OOPs  
+- 🔸 React.js (via *Chai aur React*)  
+- 🔸 AI tools + chatbot building  
+- 🔸 Firebase & basic backend integration
+
+---
+
+### 🛠 Projects I’m Working On
+| Project Name | Description |
+|--------------|-------------|
+| `Travel Destination Explorer 🗺️` | A stylish frontend travel app with filters, map view & categories |
+| `Resume Sensei 🧠💼` | A React + Tailwind app using AI to review and improve resumes |
+| `Swasthya Sathi ❤️‍🩹` | A hackathon project focused on rural healthcare access |
+| `Link-in-Bio Builder 🔗` | A fully customizable, drag-drop personal page like Bento/Linktree |
+
+---
+
+### 📌 Featured Goals
+- Build 10+ portfolio-worthy projects by 2025  
+- Collaborate on open-source or hackathons  
+- Master frontend + basic backend  
+- Start freelancing & tech content on X or Hashnode  
+- Grow public presence while staying creative 💕
+
+---
+
+### 💬 Let's Talk
+📬 Email: [cjanvi1010@gmail.com](mailto:cjanvi1010@gmail.com)  
+🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle) (drop it and I’ll add)  
+💻 Portfolio: _Coming soon with magic ✨_
+
+---
+
+### 🧠 Fun Facts
+- I believe UI is how your heart talks to the user 🖤  
+- I like turning ideas into code at 3 AM 🌙  
+- Coding + Lo-fi = Peace ☕🎧  
+- Love stories, sunsets & building dreams with React 🌅
+
+---
+
+<div align="center">
+  🧃 *“Code with heart, build with purpose.”*  
+  Made with ❤️ by Janvi
+</div>
