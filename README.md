@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Janvi! 👋</h1>
 <p align="center">
-  🌸 BCA Student | 💻 Frontend Developer | 🤖 AI Explorer <br />
+  💻 Frontend Developer | 🤖 AI Explorer <br />
   🎯 Passionate about tech, design, and building real-world projects <br />
-  📍 India • 🧠 Currently learning Java & React
+  📍 India  
 </p>
 
 ---
@@ -26,20 +26,13 @@ From AI-powered tools to full-stack web apps, I’m on a mission to learn, creat
 
 ---
 
-### 🌱 Currently Learning
-- 🔸 Java & OOPs  
-- 🔸 React.js (via *Chai aur React*)  
-- 🔸 AI tools + chatbot building  
-- 🔸 Firebase & basic backend integration
 
----
 
 ### 🛠 Projects I’m Working On
 | Project Name | Description |
 |--------------|-------------|
 | `Travel Destination Explorer 🗺️` | A stylish frontend travel app with filters, map view & categories |
 | `Resume Sensei 🧠💼` | A React + Tailwind app using AI to review and improve resumes |
-| `Swasthya Sathi ❤️‍🩹` | A hackathon project focused on rural healthcare access |
 | `Link-in-Bio Builder 🔗` | A fully customizable, drag-drop personal page like Bento/Linktree |
 
 ---
@@ -55,20 +48,14 @@ From AI-powered tools to full-stack web apps, I’m on a mission to learn, creat
 
 ### 💬 Let's Talk
 📬 Email: [cjanvi1010@gmail.com](mailto:cjanvi1010@gmail.com)  
-🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle) (drop it and I’ll add)  
-💻 Portfolio: _Coming soon with magic ✨_
+🐦 Twitter/X: [@cjanvi1010](https://x.com/cjanvi1010)
+
 
 ---
 
-### 🧠 Fun Facts
-- I believe UI is how your heart talks to the user 🖤  
-- I like turning ideas into code at 3 AM 🌙  
-- Coding + Lo-fi = Peace ☕🎧  
-- Love stories, sunsets & building dreams with React 🌅
-
----
 
 <div align="center">
+ 
   🧃 *“Code with heart, build with purpose.”*  
-  Made with ❤️ by Janvi
+  Made by Janvi
 </div>
