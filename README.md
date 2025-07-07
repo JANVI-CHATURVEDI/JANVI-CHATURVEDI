@@ -26,13 +26,15 @@ Currently diving deep into **React**, **Java**, and how AI tools like ChatGPT ca
 
 ---
 
-### 🌟 Projects I'm Proud Of
+### 🌟  Projects That Reflect Me
+
+Here are a few things I've built with passion and curiosity 💕
 
 | Project | Description | Live |
 |--------|-------------|------|
 | **Travel Destination Explorer** 🗺️ | Stylish frontend app with filters, category tabs & interactive map integration | [🌐 Live Demo](https://travel-destination-explorer-neon.vercel.app/) |
-| **Resume Sensei** 🧠💼 | AI-powered React + Tailwind app that reviews resumes and gives smart suggestions | [🌐 Live Demo](https://resume-sensei.vercel.app/) *(WIP)* |
-| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree | [🌐 Live Demo](https://linkinbio-janvi.vercel.app/) *(Coming soon)* |
+| **Resume Sensei** 🧠💼 | AI-powered React + Tailwind app that reviews resumes and gives smart suggestions |  *(WIP)* |
+| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree , don't have backend yet.| [🌐 Live Demo](https://dev-link-tree.vercel.app/)  |
 
 ---
 
