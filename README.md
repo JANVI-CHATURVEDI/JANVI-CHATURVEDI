@@ -1,61 +1,83 @@
-<h1 align="center">Hi there, I'm Janvi! 👋</h1>
+<h1 align="center">Hey, I'm Janvi 👋</h1>
 <p align="center">
-  💻 Frontend Developer | 🤖 AI Explorer <br />
-  🎯 Passionate about tech, design, and building real-world projects <br />
-  📍 India  
+  💻 Frontend Developer · 🤖 AI Explorer · 🎨 Creative Technologist <br/>
+  ✨ Turning ideas into real-world web magic 🌍 <br/>
+  📍 Based in India
 </p>
 
 ---
 
-### 💫 About Me
-I'm **Janvi Chaturvedi**, a tech enthusiast who loves mixing **creativity + code** to build beautiful digital experiences.
+I'm a passionate techie who loves to blend **code with creativity**.  
+Whether it’s crafting stunning UIs or building smart AI-powered tools, I believe in learning by doing and sharing what I build.  
 
-From AI-powered tools to full-stack web apps, I’m on a mission to learn, create, and grow every day. Currently exploring Java, React, and how AI (like ChatGPT 😉) can help solve real problems.
-
----
-
-### 🚀 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Currently diving deep into **React**, **Java**, and how AI tools like ChatGPT can bring ideas to life 🤍
 
 ---
 
+### 🚀 Tech Stack I Love
 
-
-### 🛠 Projects I’m Working On
-| Project Name | Description |
-|--------------|-------------|
-| `Travel Destination Explorer 🗺️` | A stylish frontend travel app with filters, map view & categories |
-| `Resume Sensei 🧠💼` | A React + Tailwind app using AI to review and improve resumes |
-| `Link-in-Bio Builder 🔗` | A fully customizable, drag-drop personal page like Bento/Linktree |
-
----
-
-### 📌 Featured Goals
-- Build 10+ portfolio-worthy projects by 2025  
-- Collaborate on open-source or hackathons  
-- Master frontend + basic backend  
-- Start freelancing & tech content on X or Hashnode  
-- Grow public presence while staying creative 💕
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 💬 Let's Talk
-📬 Email: [cjanvi1010@gmail.com](mailto:cjanvi1010@gmail.com)  
-🐦 Twitter/X: [@cjanvi1010](https://x.com/cjanvi1010)
+### 🌟 Projects I'm Proud Of
+
+| Project | Description | Live |
+|--------|-------------|------|
+| **Travel Destination Explorer** 🗺️ | Stylish frontend app with filters, category tabs & interactive map integration | [🌐 Live Demo](https://travel-destination-explorer-neon.vercel.app/) |
+| **Resume Sensei** 🧠💼 | AI-powered React + Tailwind app that reviews resumes and gives smart suggestions | [🌐 Live Demo](https://resume-sensei.vercel.app/) *(WIP)* |
+| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree | [🌐 Live Demo](https://linkinbio-janvi.vercel.app/) *(Coming soon)* |
+
+---
+
+### 🎯 My Goals
+
+- 🧩 Build 10+ portfolio-worthy projects  
+- 🌱 Keep growing with React + Backend (Node/Appwrite)  
+- 🛠 Contribute to open-source & hackathons  
+- ✍️ Start tech content on X or Hashnode  
+- 🧃 Freelance with fun & impactful web projects
+
+---
+
+### 💼 Portfolio & Resume
+
+<p align="center">
+  <a href="https://janvichaturvedi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Portfolio-1DBF73?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1vK-i8E_jdWzOC4n2OdD_TcMnKz7QGZl4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Resume-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 
 ---
 
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:cjanvi1010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/cjanvi1010" target="_blank">
+    <img src="https://img.shields.io/badge/-X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/janvichaturvedi1010/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
- 
-  🧃 *“Code with heart, build with purpose.”*  
-  Made by Janvi
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&width=500&lines=Code+by+heart%2C+build+with+purpose+by+Janvi" alt="Typing SVG" />
 </div>
+
