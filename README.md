@@ -32,9 +32,9 @@ Here are a few things I've built with passion and curiosity 💕
 
 | Project | Description | Live |
 |--------|-------------|------|
-| **Travel Destination Explorer** 🗺️ | Stylish frontend app with filters, category tabs & interactive map integration | [🌐 Live](https://travel-destination-explorer-neon.vercel.app/) |
+| **Travel Destination Explorer** 🗺️ | Stylish frontend app with filters, category tabs & interactive map integration | [🌐Live Demo](https://travel-destination-explorer-neon.vercel.app/) |
 | **Resume Sensei** 🧠💼 | AI-powered React + Tailwind app that reviews resumes and gives smart suggestions |  *(WIP)* |
-| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree , don't have backend yet.| [🌐 Live](https://dev-link-tree.vercel.app/)  |
+| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree , don't have backend yet.| [🌐Live Demo](https://dev-link-tree.vercel.app/)  |
 
 ---
 
