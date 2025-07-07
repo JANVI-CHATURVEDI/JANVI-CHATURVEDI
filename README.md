@@ -55,7 +55,7 @@ Here are a few things I've built with passion and curiosity 💕
     <img src="https://img.shields.io/badge/-View%20Portfolio-1DBF73?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1vK-i8E_jdWzOC4n2OdD_TcMnKz7QGZl4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1xaUAyXUc6t4hgPmaT3tH3l9EUXpznm-L/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Resume-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
@@ -66,13 +66,13 @@ Here are a few things I've built with passion and curiosity 💕
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:cjanvi1010@gmail.com" target="_blank">
+  <a href="mailto:janvichaturvedi82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/cjanvi1010" target="_blank">
     <img src="https://img.shields.io/badge/-X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/janvichaturvedi1010/" target="_blank">
+  <a href="https://www.linkedin.com/in/janvi1010/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
