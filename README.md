@@ -40,7 +40,7 @@ Here are a few things I've built with passion and curiosity 💕
 
 ### 🎯 My Goals
 
-- 🧩 Build 10+ portfolio-worthy projects  
+- 🧩 Build 10+ real world projects  
 - 🌱 Keep growing with React + Backend (Node/Appwrite)  
 - 🛠 Contribute to open-source & hackathons  
 - ✍️ Start tech content on X or Hashnode  
