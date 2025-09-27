@@ -71,16 +71,20 @@ Currently diving deep into **Django**, **React**, and scalable backend systems ð
 ### ðŸ“¬ Connect With Me
 
 <p align="center">
-  <a href="mailto:janvichaturvedi82@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- GitHub -->
+  <a href="https://github.com/JANVI-CHATURVEDI" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=" alt="GitHub" />
   </a>
-  <a href="https://x.com/janvi_0x" target="_blank">
-    <img src="https://img.shields.io/badge/-X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/janvi1010/" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/janvi1010/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- X (Twitter) -->
+  <a href="https://x.com/janvi_0x" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&label=" alt="X" />
   </a>
-  <a href="https://github.com/JANVI-CHATURVEDI" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- Email -->
+  <a href="mailto:janvichaturvedi82@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Email" />
   </a>
 </p>
