@@ -1,50 +1,56 @@
-<h1 align="center">Hey, I'm Janvi 👋</h1>
-<p align="center">
-  💻 Frontend Developer · 🤖 AI Explorer · 🎨 Creative Technologist <br/>
-  ✨ Turning ideas into real-world web magic 🌍 <br/>
-  📍 Based in India
-</p>
+<h3>Hey, I'm Janvi 👋</h3>
+
+I’m a **full-stack developer** who loves blending **code with creativity**.  
+From designing sleek UIs to building robust backends, I enjoy solving real-world problems and sharing what I build.  
+
+Currently diving deep into **Django**, **React**, and scalable backend systems 🤍
 
 ---
 
-I'm a passionate techie who loves to blend **code with creativity**.  
-Whether it’s crafting stunning UIs or building smart AI-powered tools, I believe in learning by doing and sharing what I build.  
+### 🚀 Tech Stack I Work With
 
-Currently diving deep into **React**, **Java**, and how AI tools like ChatGPT can bring ideas to life 🤍
-
----
-
-### 🚀 Tech Stack I Love
-
+**Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Others**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🌟  Projects That Reflect Me
+### 🌟 Featured Projects
 
-Here are a few things I've built with passion and curiosity 💕
-
-| Project | Description | Live |
-|--------|-------------|------|
-| **Travel Destination Explorer** 🗺️ | Stylish frontend app with filters, category tabs & interactive map integration | [🌐Live Demo](https://travel-destination-explorer-neon.vercel.app/) |
-| **Resume Sensei** 🧠💼 | AI-powered React + Tailwind app that reviews resumes and gives smart suggestions |  *(WIP)* |
-| **Link-in-Bio Builder** 🔗 | A fully customizable drag-and-drop personal page like Bento or Linktree , don't have backend yet.| [🌐Live Demo](https://dev-link-tree.vercel.app/)  |
+| Project | Description | Live | GitHub |
+|--------|-------------|------|--------|
+| **Tweet**  | A mini Twitter-like app built with Django + PostgreSQL + Tailwind | [Live](https://tweet-hveo.onrender.com) | [ Repo](https://github.com/JANVI-CHATURVEDI/TWEET) |
+| **Dev LinkTree** (in progress) | Fully customizable drag-and-drop link-in-bio builder with live preview | [Live](https://dev-link-tree.vercel.app/) | [ Repo](https://github.com/JANVI-CHATURVEDI/DevLinkTree) |
+| **One-Time Secret App**  | Secure messaging app where messages auto-delete after being read once | [Live](https://one-time-msg.vercel.app/) | [Repo](https://github.com/JANVI-CHATURVEDI/one-time-msg) |
+| **Travel Destination Explorer** (in progress) | Map-based explorer with filters & interactive maps | [Live](https://travel-destination-explorer-neon.vercel.app/) | [ Repo](https://github.com/JANVI-CHATURVEDI/Travel-Destination-Explorer) |
+| **Cofeeshop Landing Page**  | A modern landing page optimized for all devices | [Live](https://cofeeshop-kappa.vercel.app/) | [Repo](https://github.com/JANVI-CHATURVEDI/Cofeeshop) |
 
 ---
 
+
 ### 🎯 My Goals
 
-- 🧩 Build 10+ real world projects  
-- 🌱 Keep growing with React + Backend (Node/Appwrite)  
-- 🛠 Contribute to open-source & hackathons  
-- ✍️ Start tech content on X or Hashnode  
-- 🧃 Freelance with fun & impactful web projects
+- 🧩 Build 10+ full-stack projects  
+- 🌱 Master backend with Django + modern databases  
+- 🛠 Contribute to open-source & hackathons
 
 ---
 
@@ -60,7 +66,6 @@ Here are a few things I've built with passion and curiosity 💕
   </a>
 </p>
 
-
 ---
 
 ### 📬 Connect With Me
@@ -69,17 +74,13 @@ Here are a few things I've built with passion and curiosity 💕
   <a href="mailto:janvichaturvedi82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/cjanvi1010" target="_blank">
+  <a href="https://x.com/janvi_0x" target="_blank">
     <img src="https://img.shields.io/badge/-X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/janvi1010/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/JANVI-CHATURVEDI" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&width=500&lines=Code+by+heart%2C+build+with+purpose+by+Janvi" alt="Typing SVG" />
-</div>
-
