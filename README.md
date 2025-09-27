@@ -57,7 +57,7 @@ Currently diving deep into **Django**, **React**, and scalable backend systems ð
 ### ðŸ’¼ Portfolio & Resume
 
 <p align="center">
-  <a href="https://janvichaturvedi-portfolio.vercel.app/" target="_blank">
+  <a href="https://janvi-chaturvedi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-View%20Portfolio-1DBF73?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
