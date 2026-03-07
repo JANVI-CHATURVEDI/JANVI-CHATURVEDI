@@ -37,7 +37,7 @@ Currently diving deep into **Django**, **React**, and scalable backend systems ð
 
 | Project | Description | Live | GitHub |
 |--------|-------------|------|--------|
-| **Tweet**  | A mini Twitter-like app built with Django + PostgreSQL + Tailwind | [Live](https://tweet-hveo.onrender.com) | [ Repo](https://github.com/JANVI-CHATURVEDI/TWEET) |
+| **Tweet**  | A mini Twitter-like app built with Django + PostgreSQL + Tailwind | [Live](https://janvi-tweet.up.railway.app/) | [ Repo](https://github.com/JANVI-CHATURVEDI/TWEET) |
 | **Dev LinkTree** (in progress) | Fully customizable drag-and-drop link-in-bio builder with live preview | [Live](https://dev-link-tree.vercel.app/) | [ Repo](https://github.com/JANVI-CHATURVEDI/DevLinkTree) |
 | **One-Time Secret App**  | Secure messaging app where messages auto-delete after being read once | [Live](https://one-time-msg.vercel.app/) | [Repo](https://github.com/JANVI-CHATURVEDI/one-time-msg) |
 | **Travel Destination Explorer** (in progress) | Map-based explorer with filters & interactive maps | [Live](https://travel-destination-explorer-neon.vercel.app/) | [ Repo](https://github.com/JANVI-CHATURVEDI/Travel-Destination-Explorer) |
