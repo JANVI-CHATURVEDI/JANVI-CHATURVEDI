@@ -61,7 +61,7 @@ Currently diving deep into **Django**, **React**, and scalable backend systems ð
     <img src="https://img.shields.io/badge/-View%20Portfolio-1DBF73?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1xaUAyXUc6t4hgPmaT3tH3l9EUXpznm-L/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1HyZ1PbW3TBUVSlSIu6PLxsqDcvfjVzdm/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Resume-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
